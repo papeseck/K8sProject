@@ -3,7 +3,8 @@ Deploy your spring boot application to kubernetes cluster
 #Apres la creation du service avec la commande kubectl expose deployment spring-boot-k8s --type=NodePort , nous avons pu demarrer le projet
 <img width="491" alt="message" src="https://github.com/papeseck/K8sProject/assets/102872504/4b490219-7bf4-4886-b16d-8b07a58ae0b0">
 #Nous allons visulaiser le tableau de bord de minikube : minikube dashboard
-<img width="946" alt="dashbordK8s" src="https://github.com/papeseck/K8sProject/assets/102872504/eece480b-d4a5-45ac-b4f0-bcf906249c09">
+<img width="948" alt="k8s1" src="https://github.com/papeseck/K8sProject/assets/102872504/b40168ce-71cf-47ec-ae02-eb917ef81e03">
+
 #les Services
 <img width="959" alt="k8sNew" src="https://github.com/papeseck/K8sProject/assets/102872504/8045af7d-86e4-4535-8d39-add42d6bdde3">
 
